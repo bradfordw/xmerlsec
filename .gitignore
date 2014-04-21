@@ -1,1 +1,6 @@
 *.o
+*.swp
+.DS_Store
+deps/
+ebin/
+.eunit/*
